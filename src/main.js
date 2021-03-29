@@ -7,7 +7,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 
 //全局統一路徑
-import { publicPath } from '../vue.config'
+// import { publicPath } from '../vue.config'
 
 Vue.config.productionTip = false;
 Vue.use(ElementUI);
