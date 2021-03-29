@@ -12,7 +12,6 @@ import 'element-ui/lib/theme-default/index.css'
 import { publicPath } from '../vue.config'
 
 //全局統一路徑
-// import { publicPath } from '../vue.config'
 // import { VueRouter } from 'vue-router/types/router'
 
 Vue.config.productionTip = false;
