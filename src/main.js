@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import App from './App'
-import Routes from './router/index'
+import Routes from './router'
 import ElementUI from 'element-ui'
 // import Routes from './router/index'
 import 'element-ui/lib/theme-default/index.css'
