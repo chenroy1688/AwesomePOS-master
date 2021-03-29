@@ -1,0 +1,26 @@
+[ 
+  {
+      "id":1,
+      "goodsName":"可口可乐",
+      "price":30,
+      "count":1
+  },
+  {
+      "id":2,
+      "goodsName":"香辣鸡腿堡",
+      "price":20,
+      "count":1
+  },
+  {
+      "id":3,
+      "goodsName":"薯条",
+      "price":15,
+      "count":1
+  },
+  {
+      "id":4,
+      "goodsName":"甜筒",
+      "price":10,
+      "count":1
+  }
+]
